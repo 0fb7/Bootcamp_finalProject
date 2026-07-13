@@ -20,6 +20,7 @@ Optimized for academic efficiency, the pipeline processes data linearly:
 * `Copy of BootcampProject.ipynb`: The main notebook containing the pipeline logic.
 * `Raw Transcript (Whisper).txt`: The raw text output extracted from the lecture audio.
 * `Summary of the lecture.md`: The final structured study notes, including summaries, definitions, and review questions.
+* `requirements.txt`: A configuration file listing all necessary dependencies and library versions required to run the project.
 
 ## 🎓 Validation
 This pipeline has been successfully tested and validated on the latest lecture provided in the Generative AI Summer Bootcamp, demonstrating high accuracy in capturing complex technical concepts.
