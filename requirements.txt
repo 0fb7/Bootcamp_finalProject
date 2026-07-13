@@ -1,0 +1,10 @@
+transformers>=4.56,<6
+accelerate>=0.33
+bitsandbytes>=0.46.1
+gradio
+moviepy
+torch
+pillow==11.3.0
+soundfile
+librosa
+sentencepiece
