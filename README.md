@@ -27,7 +27,7 @@ This pipeline has been successfully tested and validated on the latest lecture p
 
 ## 🔗 Connect with the Developer
 - **GitHub**: (https://github.com/0fb7)
-- **X (Twitter)**: (https://x.com/prog7_)
+- **X (Twitter)**: ( prog7_ )
 
 ---
 *This project directly reinforces the Multimodal Data and Software Development.
