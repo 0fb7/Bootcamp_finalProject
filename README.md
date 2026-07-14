@@ -14,7 +14,6 @@ The project utilizes a modular architecture to ensure efficiency and performance
 ## ⏱ Performance Note (T4 GPU)
 Optimized for academic efficiency, the pipeline processes data linearly:
 - **Processing Speed**: Every 5 minutes of video take approximately 1 minute to process.
-- **Typical Load**: A 45-minute lecture is fully processed in about 15–18 minutes.
 
 ## 📂 File Structure
 * `Copy of BootcampProject.ipynb`: The main notebook containing the pipeline logic.
