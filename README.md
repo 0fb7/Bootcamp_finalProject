@@ -2,6 +2,9 @@
 
 An end-to-end multimodal pipeline that transforms raw lecture video files into professional, structured study notes. This project was developed as a Capstone Project for the Generative AI Summer Bootcamp at Najran University.
 
+##⚠️ The Problem
+Students are often forced to watch lengthy recorded lectures just to extract key educational information. However, these recordings are rarely smooth; they are frequently disrupted by irrelevant student questions, unexpected internet connection drops, and unpredictable pauses by the instructor. This makes studying directly from raw video recordings a tedious, frustrating, and time-consuming process.
+
 ## 🚀 Project Overview
 This tool automates the tedious process of note-taking from educational videos. By leveraging state-of-the-art Generative AI models, it extracts speech from video, transcribes it, and structures the output into a textbook-style study guide.
 
